@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="River Crossing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RiverCrosser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sequence.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
